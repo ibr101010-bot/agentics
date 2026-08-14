@@ -1,4 +1,4 @@
-# ✨ The Agentics
+    # ✨ The Agentics
 
 A sample family of reusable [GitHub Agentic Workflows](https://github.github.com/gh-aw/).
 
